@@ -31,4 +31,9 @@ See
 | | 2 | 04/08/20 (W) | Phasing and imputation | |
 | | 3 | 04/13/20 (M) | Relative finding | |
 | | 3 | 04/15/20 (W) | Genetic Genealogy, Web 2.0 Genomics | ps2 due |
+| 3 (Trait prediction) | 4 | 04/20/20 (W) | Mendelian(ish) traits| ps3 out |
+| | 4 | 04/22/20 (W) | Intro to GWAS | ps3 out |
+| | 5 | 04/27/20 (M) | Risk prediction |  |
+| | 5 | 04/29/20 (W) | Missing heritability | ps3 due |
+
 
