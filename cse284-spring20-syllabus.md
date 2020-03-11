@@ -6,7 +6,7 @@
 
 **TAs**: TBD
 
-**Lectures**: MW 3:00-4:50pm (Zoom)
+**Lectures**: MW 3:30-4:50pm (Zoom)
 
 **Office Hours**:
 * Melissa 2:30-3:30pm Thursdays (Zoom)
