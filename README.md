@@ -44,8 +44,8 @@ See
 | | 8 | 05/18/20 (M) | Clinical genome sequencing | |  |
 | | 8 | 05/20/20 (W) | Long read technologies |  | ps4 due|
 | | 9 | 05/25/20 (M) | No lecture - Memorial Day  |  | |
-| Special topics | 9 | 05/27/20 (W) | Ethical considerations in personal genomics |  | JC4 questions due|
-| | 10 | 06/01/20 (M) | Improving diversity in genomics |  |  |
+| Special topics | 9 | 05/27/20 (W) | Improving diversity in genomics  |  | JC4 questions due|
+| | 10 | 06/01/20 (M) | Ethical considerations in personal genomics |  |  |
 | | 10 | 06/03/20 (W) |  Project presentations| Project due | |
 
 
