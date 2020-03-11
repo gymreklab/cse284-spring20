@@ -18,8 +18,8 @@ We will use [Piazza](https://piazza.com/ucsd/spring2020/cse284/home) for discuss
 Grades will be posted on Gradesource.
 
 See
-* [Jupyter Assignment Instructions](https://github.com/gymreklab/cse284-spring20/blob/master/jupyter_assignment_instructions.md) to get started with the labs.
-* [Quiz policy](https://github.com/gymreklab/cse284-spring20/blob/master/quiz_policy.md) for more info about quizzes.
+* [Jupyter Assignment Instructions](https://github.com/gymreklab/cse284-spring20/blob/master/jupyter_assignment_instructions.md) to get started with the problem sets.
+* [Journal Club Instructions](https://github.com/gymreklab/cse284-spring20/blob/master/jc_instructions.md) for instructions on journal club assignments.
 * [Final Project Guidelines](https://github.com/gymreklab/cse284-spring20/blob/master/project_guidelines.md) for information about final projects. 
 * [Resources](https://github.com/gymreklab/cse284-spring20/blob/master/resources.md) for more helpful resources each week.
 
@@ -35,11 +35,11 @@ See
 | | 3 | 04/15/20 (W) | Genetic Genealogy, Web 2.0 Genomics | ps2 due | |
 | Trait prediction | 4 | 04/20/20 (M) | Mendelian(ish) traits| ps3 out | |
 | | 4 | 04/22/20 (W) | Intro to GWAS |  | |
-| | 5 | 04/27/20 (M) | Risk prediction |  | |
+| | 5 | 04/27/20 (M) | Risk prediction |  | JC2 questions due|
 | | 5 | 04/29/20 (W) | Missing heritability | ps3 due | |
 | Next-generation sequencing | 6 | 05/04/20 (M) | Introduction to NGS | ps4 out | |
 | | 6 | 05/06/20 (W) | Short read alignment and variant calling |  | |
-| | 7 | 05/11/20 (M) | Filtering and prioritizing variants  |  | |
+| | 7 | 05/11/20 (M) | Filtering and prioritizing variants  |  | JC3 questions due|
 | | 7 | 05/13/20 (W) | Functional genomics |  | |
 | | 8 | 05/18/20 (M) | Clinical genome sequencing | | JC4 questions due |
 | | 8 | 05/20/20 (W) | Long read technologies | ps4 due | |
