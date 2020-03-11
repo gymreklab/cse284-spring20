@@ -40,9 +40,11 @@ genomics.
 
 ## Course Structure
 
-The course will consist of 5 modules. Each module will have a corresponding problem set due at the end of the module. Problem sets will be completed on JupyterHub, and will consist of a mixture of autograded programing assignments and short answer questions.
-We will occasionally have journal club discussions in class. For those discussions, you will be asked to submit some short answer questions before class.
+The course will consist of 5 modules (Intro, ancestry, trait prediction, NGS, special topics). Each module will have a corresponding problem set due at the end of the module. Problem sets will be completed on JupyterHub, and will consist of a mixture of autograded programing assignments and short answer questions.
+We will have journal club discussions in class approximately every other week. For those discussions, you will be asked to submit some short answer questions before class.
 Finally, each student will work in a group to complete a final project, described below.
+
+Deadlines are set up such that at most 1 assignment is due in a given week (problem set, journal club, or project item).
 
 ## Course sessions
 Lectures are held MW 3:00-4:50 by Zoom. Class meetings will consist of two sections separated by a short 5 minute break. The first section will usually
@@ -76,7 +78,7 @@ Your grade will be based on:
 There will be one problem set for each module that will mostly involve performing analyses on genomes using
 existing tools. PS1 is worth 5%. The other four problem sets are worth 15% each. Problem sets are graded out of 100 points. Late problem sets will lose five points for each day past the due date.
 
-We will have 5 journal club discussions throughout the quarter. Short answer questions will be worth 2% each.
+We will have 4 journal club discussions throughout the quarter. Short answer questions will be worth 2.5% each and will be graded out of 10 points.
 
 The final project will consist of a proposal (5%), paper (15%), and presentation (5%). Full final project instructions will be posted soon.
 
