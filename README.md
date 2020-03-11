@@ -34,8 +34,8 @@ See
 | | 3 | 04/13/20 (M) | Relative finding | | |
 | | 3 | 04/15/20 (W) | Genetic Genealogy, Web 2.0 Genomics | ps2 due | |
 | Trait prediction | 4 | 04/20/20 (M) | Mendelian(ish) traits| ps3 out | |
-| | 4 | 04/22/20 (W) | Intro to GWAS |  | |
-| | 5 | 04/27/20 (M) | Risk prediction |  | JC2 questions due|
+| | 4 | 04/22/20 (W) | Intro to GWAS |  | JC2 questions due|
+| | 5 | 04/27/20 (M) | Risk prediction |  | |
 | | 5 | 04/29/20 (W) | Missing heritability | ps3 due | |
 | Next-generation sequencing | 6 | 05/04/20 (M) | Introduction to NGS | ps4 out | |
 | | 6 | 05/06/20 (W) | Short read alignment and variant calling |  | |
