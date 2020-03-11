@@ -40,9 +40,9 @@ genomics.
 
 ## Course Structure
 
-The course will consist of 5 modules. Each module will have a corresponding problem
-set due at the end of the module. Problem sets will be completed on JupyterHub, and will consist of a mixture of autograded programing assignments and short answer questions.
-In addition, each student will work in a group to complete a final project, described below.
+The course will consist of 5 modules. Each module will have a corresponding problem set due at the end of the module. Problem sets will be completed on JupyterHub, and will consist of a mixture of autograded programing assignments and short answer questions.
+We will occasionally have journal club discussions in class. For those discussions, you will be asked to submit some short answer questions before class.
+Finally, each student will work in a group to complete a final project, described below.
 
 ## Course sessions
 Lectures are held MW 3:00-4:50 by Zoom. Class meetings will consist of two sections separated by a short 5 minute break. The first section will usually
@@ -65,3 +65,22 @@ test.
 * While you are free to analyze your genome, you must still complete the homework assignments with the
 provided genomes as well.
 * 23andme can take up to six weeks, so sign up early if you want to use it during class.
+
+# Grading
+
+Your grade will be based on:
+* Problem sets (65%)
+* Journal club participation (10%)
+* final projects (25%)
+
+There will be one problem set for each module that will mostly involve performing analyses on genomes using
+existing tools. PS1 is worth 5%. The other four problem sets are worth 15% each. Problem sets are graded out of 100 points. Late problem sets will lose five points for each day past the due date.
+
+We will have 5 journal club discussions throughout the quarter. Short answer questions will be worth 2% each.
+
+The final project will consist of a proposal (5%), paper (15%), and presentation (5%). Full final project instructions will be posted soon.
+
+Final grades will be out of 100 points. ≥70 points is passing. If you are taking the course for a letter grade, we
+will use the following scale: A+:97-100, A:93-96, A-:90-92, B+:87-89, B:83-86, B-:80-82, C+:77-79, C:73-76,
+C-:70-72, F:0-69.
+
