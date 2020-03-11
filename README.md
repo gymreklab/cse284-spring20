@@ -38,14 +38,14 @@ See
 | | 5 | 04/27/20 (M) | Risk prediction |  | |
 | | 5 | 04/29/20 (W) | Missing heritability | ps3 due | |
 | Next-generation sequencing | 6 | 05/04/20 (M) | Introduction to NGS | ps4 out | |
-| | 6 | 05/06/20 (W) | Short read alignment and variant calling |  | |
-| | 7 | 05/11/20 (M) | Filtering and prioritizing variants  |  | JC3 questions due|
-| | 7 | 05/13/20 (W) | Functional genomics |  | |
-| | 8 | 05/18/20 (M) | Clinical genome sequencing | | JC4 questions due |
-| | 8 | 05/20/20 (W) | Long read technologies | ps4 due | |
+| | 6 | 05/06/20 (W) | Short read alignment and variant calling |  | JC3 questions due|
+| | 7 | 05/11/20 (M) | Filtering and prioritizing variants  |  | |
+| | 7 | 05/13/20 (W) | Functional genomics | Project proposal due | |
+| | 8 | 05/18/20 (M) | Clinical genome sequencing | |  |
+| | 8 | 05/20/20 (W) | Long read technologies |  | ps4 due|
 | | 9 | 05/25/20 (M) | No lecture - Memorial Day  |  | |
-| Special topics | 9 | 05/27/20 (W) | Ethical considerations in personal genomics |  | |
-| | 10 | 06/01/20 (M) | Improving diversity in genomics |  | JC5 questions due |
+| Special topics | 9 | 05/27/20 (W) | Ethical considerations in personal genomics |  | JC4 questions due|
+| | 10 | 06/01/20 (M) | Improving diversity in genomics |  |  |
 | | 10 | 06/03/20 (W) |  Project presentations| Project due | |
 
 
