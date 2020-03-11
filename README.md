@@ -15,7 +15,7 @@ Assignments will be posted on our course JupyterHub at [datahub.ucsd.edu](datahu
 <br>
 We will use [Piazza](https://piazza.com/ucsd/spring2020/cse284/home) for discussions about assignments.
 <br>
-Grades will be posted on Gradesource.
+Grades will be posted on Canvas.
 
 See
 * [Jupyter Assignment Instructions](https://github.com/gymreklab/cse284-spring20/blob/master/jupyter_assignment_instructions.md) to get started with the problem sets.
