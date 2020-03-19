@@ -31,7 +31,7 @@ See
 | ---- | ----| -----| -----| ---- | ----- |
 | Intro | 1 | 03/30/20 (M) | Introduction to your genome |  | |
 | Ancestry | 1 | 04/01/20 (W) | Basic population genetics |  JC1 questions due| |
-| | 2 | 04/06/20 (M) | Phasing and imputation  | ps1 due  |  |
+| | 2 | 04/06/20 (M) | Phasing and imputation  | [ps1 due](https://github.com/gymreklab/cse284-spring20/blob/master/jupyter_assignment_instructions.md#PS1)  |  |
 | | 2 | 04/08/20 (W) | Determining ancestry | | |
 | | 3 | 04/13/20 (M) | Relative finding | | |
 | | 3 | 04/15/20 (W) | Genetic Genealogy, Web 2.0 Genomics | ps2 due | |
