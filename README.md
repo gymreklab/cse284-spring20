@@ -31,8 +31,8 @@ See
 | ---- | ----| -----| -----| ---- | ----- |
 | Intro | 1 | 03/30/20 (M) | Introduction to your genome | ps1 out | |
 | Ancestry | 1 | 04/01/20 (W) | Basic population genetics |  ps1 due <br> ps2 out| |
-| | 2 | 04/06/20 (M) | Determining ancestry |  |  |
-| | 2 | 04/08/20 (W) | Phasing and imputation | | JC1 questions due|
+| | 2 | 04/06/20 (M) | Phasing and imputation  |  |  |
+| | 2 | 04/08/20 (W) | Determining ancestry | | JC1 questions due|
 | | 3 | 04/13/20 (M) | Relative finding | | |
 | | 3 | 04/15/20 (W) | Genetic Genealogy, Web 2.0 Genomics | ps2 due | |
 | Trait prediction | 4 | 04/20/20 (M) | Mendelian(ish) traits| ps3 out | |
