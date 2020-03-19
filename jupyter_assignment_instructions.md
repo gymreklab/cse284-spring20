@@ -38,6 +38,7 @@ Please request regrades through private Piazza messages to ensure we see them.
 ### Problem Set 1: "Introduction to your genome"
 
 **Due: Monday 04/06/20 11:59pm**
+
 Follow instructions above to navigate to the PS1 assignment on datahub.
 
 You will need to complete one Jupyter notebook for PS 1:
