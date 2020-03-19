@@ -14,6 +14,6 @@ All journal club assignments will be due at 10:00am the morning before the sched
 **Questions due on Canvas 04/01/20 10:00am**
 
 Assigned reading:
-* "Ancient Genomics of Modern Humans: The First Decade"
-* "Population Histories of the United States Revealed through Fine-Scale Migration and Haplotype Analysis"
+* ["Ancient Genomics of Modern Humans: The First Decade"](https://github.com/gymreklab/cse284-spring20/blob/master/jc-papers/JC1-ancestry/Genetics-ModernHumans-AnnualReviews.pdf)
+* ["Population Histories of the United States Revealed through Fine-Scale Migration and Haplotype Analysis"](https://github.com/gymreklab/cse284-spring20/raw/master/jc-papers/JC1-ancestry/Ancestry-USPopulation-AJHG2020.pdf)
 
