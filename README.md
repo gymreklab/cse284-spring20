@@ -29,17 +29,17 @@ See
 
 | Module | Week | Date | Lecture | Problem Sets | Journal Club | 
 | ---- | ----| -----| -----| ---- | ----- |
-| Intro | 1 | 03/30/20 (M) | Introduction to your genome | ps1 out | |
-| Ancestry | 1 | 04/01/20 (W) | Basic population genetics |  ps1 due <br> ps2 out| |
-| | 2 | 04/06/20 (M) | Phasing and imputation  |  |  |
-| | 2 | 04/08/20 (W) | Determining ancestry | | JC1 questions due|
+| Intro | 1 | 03/30/20 (M) | Introduction to your genome |  | |
+| Ancestry | 1 | 04/01/20 (W) | Basic population genetics |  JC1 questions due| |
+| | 2 | 04/06/20 (M) | Phasing and imputation  | ps1 due  |  |
+| | 2 | 04/08/20 (W) | Determining ancestry | | |
 | | 3 | 04/13/20 (M) | Relative finding | | |
 | | 3 | 04/15/20 (W) | Genetic Genealogy, Web 2.0 Genomics | ps2 due | |
-| Trait prediction | 4 | 04/20/20 (M) | Mendelian(ish) traits| ps3 out | |
+| Trait prediction | 4 | 04/20/20 (M) | Mendelian(ish) traits|  | |
 | | 4 | 04/22/20 (W) | Intro to GWAS |  | JC2 questions due|
 | | 5 | 04/27/20 (M) | Risk prediction |  | |
 | | 5 | 04/29/20 (W) | Missing heritability | ps3 due | |
-| Next-generation sequencing | 6 | 05/04/20 (M) | Introduction to NGS | ps4 out | |
+| Next-generation sequencing | 6 | 05/04/20 (M) | Introduction to NGS |  | |
 | | 6 | 05/06/20 (W) | Short read alignment and variant calling |  | JC3 questions due|
 | | 7 | 05/11/20 (M) | Filtering and prioritizing variants  |  | |
 | | 7 | 05/13/20 (W) | Functional genomics | Project proposal due | |
