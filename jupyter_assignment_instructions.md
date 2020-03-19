@@ -33,3 +33,15 @@ You must ask for regrades within one week of receiving feedback for the assignme
 Please request regrades through private Piazza messages to ensure we see them.
 
 ## Assignment descriptions
+
+<a name="PS1"></a>
+### Problem Set 1: "Introduction to your genome"
+
+**Due: Monday 04/06/20 11:59pm**
+Follow instructions above to navigate to the PS1 assignment on datahub.
+
+You will need to complete one Jupyter notebook for PS 1:
+* `CSE284-SPRING20-PS1.ipynb`: Intro to JupyterHub, basic genetics review, intro to VCF files.
+
+PS1 is worth 50 points total.
+
