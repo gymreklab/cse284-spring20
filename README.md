@@ -16,6 +16,8 @@ Assignments will be posted on our course JupyterHub at [datahub.ucsd.edu](datahu
 We will use [Piazza](https://piazza.com/ucsd/spring2020/cse284/home) for discussions about assignments.
 <br>
 Grades will be posted on Canvas.
+<br>
+To see material from a previous offering of this course, see http://gymreklab.com/teaching/personal_genomics/personal_genomics_2017.html
 
 See
 * [Jupyter Assignment Instructions](https://github.com/gymreklab/cse284-spring20/blob/master/jupyter_assignment_instructions.md) to get started with the problem sets.
