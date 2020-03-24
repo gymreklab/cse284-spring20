@@ -1,6 +1,7 @@
 # cse284-spring20
 Course website for CSE 284 Spring 2020
 
+**This page is no longer being maintained. All material will be updated on Canvas this quarter.**
 **Note: for Spring 2020, due to the COVID-19 situation, this entire course will be held remotely. No in-person attendance is required.**
 
 **Under construction!**
